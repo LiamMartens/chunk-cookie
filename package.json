@@ -4,6 +4,23 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "license": "MIT",
+  "author": {
+    "email": "hi@liammartens.com",
+    "name": "Liam Martens",
+    "url": "https://liammartens.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiamMartens/chunk-cookie"
+  },
+  "keywords": [
+    "cookies",
+    "utility"
+  ],
+  "bugs": {
+    "url": "https://github.com/LiamMartens/chunk-cookie/issues"
+  },
+  "homepage": "https://github.com/LiamMartens/chunk-cookie#readme",
   "devDependencies": {
     "@types/jest": "^26.0.22",
     "jest": "^26.6.3",
