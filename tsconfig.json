@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2015",
+    "declaration": true,
+    "outDir": "lib",
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "lib": [
+      "ESNext",
+      "ES2015"
+    ]
+  },
+  "include": [
+    "./src"
+  ],
+  "exclude": [
+    "**/*.spec.ts",
+    "node_modules"
+  ]
+}
